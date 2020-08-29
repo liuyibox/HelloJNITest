@@ -1,0 +1,3 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('hello-android-5.2-release.aar'))
+//artifacts.add("default", file('kaldi-android-5.2-release.aar'))
